@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alphine Dora W</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 📫 How to reach me **doraalphine@gmail.com**
 
